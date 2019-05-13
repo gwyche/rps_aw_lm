@@ -6,7 +6,7 @@ var round=1;
 var maxwins=0;
 var winner;
 var weaponOfChoice;
-
+/**/
 
 while(maxwins<3)
 {
